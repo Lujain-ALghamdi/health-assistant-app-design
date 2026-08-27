@@ -34,6 +34,8 @@ Health Assistant is a mobile app concept designed to give users a single, simple
 health-assistant-app-design/
 ├── assets/
 │   └── design-overview.png   # Full screen-by-screen UX flow
+├── doc/
+│   └── poster.png  Demo.png 
 ├── LICENSE
 └── README.md
 ```
